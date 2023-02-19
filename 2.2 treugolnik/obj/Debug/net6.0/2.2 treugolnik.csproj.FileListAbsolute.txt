@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\obj\Debug\net6.0\2.2 treugolnik.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\obj\Debug\net6.0\2.2 treugolnik.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\obj\Debug\net6.0\2.2 treugolnik.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\obj\Debug\net6.0\2.2 treugolnik.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\obj\Debug\net6.0\2.2 treugolnik.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\bin\Debug\net6.0\2.2 treugolnik.exe
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\bin\Debug\net6.0\2.2 treugolnik.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\bin\Debug\net6.0\2.2 treugolnik.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\bin\Debug\net6.0\2.2 treugolnik.dll
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\bin\Debug\net6.0\2.2 treugolnik.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\obj\Debug\net6.0\2.2 treugolnik.dll
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\obj\Debug\net6.0\refint\2.2 treugolnik.dll
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\obj\Debug\net6.0\2.2 treugolnik.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\obj\Debug\net6.0\2.2 treugolnik.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\6.6 семинарское\2.2 treugolnik\obj\Debug\net6.0\ref\2.2 treugolnik.dll
